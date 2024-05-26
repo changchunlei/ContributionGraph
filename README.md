@@ -30,7 +30,8 @@ I've been searching for a lightweight and customizable contribution graph in Swi
 
 This visualisation can be used in your dashboard or heatmap calendar for analytics
 
-![Usage 1](usage1.png) ![Usage 2](usage2.png)
+<img src="usage1.png" width="40%" />
+<img src="usage2.png" width="40%" />
 
 ## Contributing
 
